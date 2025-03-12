@@ -51,12 +51,17 @@ You are free to **share** and **adapt** it, provided you give appropriate credit
 
 🔗 Full License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
- doi: 
-
+ 
 🚀 How to Use
 
 1️⃣ Download the dataset from [GitHub Link].
 2️⃣ Load it using Python or R:
+
+
+## 📖 Citation  
+If you use this dataset, please cite:  
+https://doi.org/10.5281/zenodo.15010185 
+ 
 
 📩 Contact & Acknowledgments
 
