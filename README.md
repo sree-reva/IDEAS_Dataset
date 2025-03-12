@@ -25,9 +25,9 @@ It is collected from two examinations.
     Format: excel
 
 📂 Dataset Structure
-File Name	          Description
-IDEAS.excel	      Main dataset file
-README.md	        Documentation file
+File Name	              Description
+IDEAS.excel	          Main dataset file
+README.md	          Documentation file
 
 🔬 Sample Data Preview
 
@@ -54,7 +54,7 @@ You are free to **share** and **adapt** it, provided you give appropriate credit
  
 🚀 How to Use
 
-1️⃣ Download the dataset from [GitHub Link].
+1️⃣ Download the dataset from : https://github.com/sree-reva/IDEAS_Dataset/tree/main
 2️⃣ Load it using Python or R:
 
 
@@ -69,4 +69,12 @@ If you have questions, feel free to reach out:
 📧 Email: p.sreelakshmi@reva.edu.in / paradesisreelakshmi@gmail.com
 🔗 GitHub Profile: https://github.com/sree-reva
 
-Special thanks to My Guide. Dr. J B Simha, Dr. Rajeev Ranjan, Mrs. Mythili 
+
+Below are the list of research papers that used above dataset :
+
+Paper 1:  https://kijoms.uokerbala.edu.iq/home/vol10/iss3/9    doi: 10.33640/2405-609X.3370
+Paper 2: doi:10.1007/s42979-024-02954-7
+Paper 3: doi:10.1109/I4C57141.2022.10057906
+
+
+Special thanks to My Guide. Dr. J B Simha, Dr. Rajeev Ranjan and Mrs. Mythili 
